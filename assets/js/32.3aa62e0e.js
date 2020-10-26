@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[32],{439:function(t,n,s){"use strict";s.r(n);var e=s(1),l=Object(e.a)({},(function(){var t=this.$createElement;return(this._self._c||t)("a",{staticClass:"link",attrs:{href:"https://www.google.com"}},[this._v("A link")])}),[],!1,null,null,null);n.default=l.exports}}]);
